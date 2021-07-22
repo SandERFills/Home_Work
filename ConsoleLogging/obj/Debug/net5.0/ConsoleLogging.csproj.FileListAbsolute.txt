@@ -1,0 +1,16 @@
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.AssemblyInfo.cs
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ConsoleLogging.exe
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ConsoleLogging.deps.json
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ConsoleLogging.runtimeconfig.json
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ConsoleLogging.runtimeconfig.dev.json
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ConsoleLogging.dll
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ref\ConsoleLogging.dll
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\bin\Debug\net5.0\ConsoleLogging.pdb
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.dll
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ref\ConsoleLogging.dll
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.pdb
+C:\Users\salag\source\repos\HomeWork\ConsoleLogging\obj\Debug\net5.0\ConsoleLogging.genruntimeconfig.cache

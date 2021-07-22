@@ -1,0 +1,7 @@
+C:\Users\salag\source\repos\HomeWork\SplitWorld\bin\Debug\SplitWorld.exe.config
+C:\Users\salag\source\repos\HomeWork\SplitWorld\bin\Debug\SplitWorld.exe
+C:\Users\salag\source\repos\HomeWork\SplitWorld\bin\Debug\SplitWorld.pdb
+C:\Users\salag\source\repos\HomeWork\SplitWorld\obj\Debug\SplitWorld.csprojAssemblyReference.cache
+C:\Users\salag\source\repos\HomeWork\SplitWorld\obj\Debug\SplitWorld.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\HomeWork\SplitWorld\obj\Debug\SplitWorld.exe
+C:\Users\salag\source\repos\HomeWork\SplitWorld\obj\Debug\SplitWorld.pdb

@@ -1,0 +1,16 @@
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.csproj.AssemblyReference.cache
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.GeneratedMSBuildEditorConfig.editorconfig
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.AssemblyInfoInputs.cache
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.AssemblyInfo.cs
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.csproj.CoreCompileInputs.cache
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\interviewTraning.exe
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\interviewTraning.deps.json
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\interviewTraning.runtimeconfig.json
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\interviewTraning.runtimeconfig.dev.json
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\interviewTraning.dll
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\ref\interviewTraning.dll
+D:\babich\New folder\interviewTraning\bin\Debug\net5.0\interviewTraning.pdb
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.dll
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\ref\interviewTraning.dll
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.pdb
+D:\babich\New folder\interviewTraning\obj\Debug\net5.0\interviewTraning.genruntimeconfig.cache
